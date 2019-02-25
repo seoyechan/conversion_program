@@ -1,0 +1,9 @@
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\bin\Debug\문자변환기.exe.config
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\bin\Debug\문자변환기.exe
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\bin\Debug\문자변환기.pdb
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.csprojResolveAssemblyReference.cache
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.conversion.resources
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.Properties.Resources.resources
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.csproj.GenerateResource.Cache
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.exe
+c:\users\seoyechan\documents\visual studio 2013\Projects\문자변환기\문자변환기\obj\Debug\문자변환기.pdb
